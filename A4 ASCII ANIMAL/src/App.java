@@ -1,3 +1,10 @@
+//ASCII amongus
+//Emmanuel Mok
+//Sept. 16th, 2024
+//click for sussy imposter to appear
+
+
+
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("\t\t ____________");
