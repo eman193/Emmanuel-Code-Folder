@@ -10,8 +10,16 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) throws Exception {
         Scanner keyboard = new Scanner(System.in);
-
+        int intOne, intTwo;
         double doOne, doTwo; 
+        System.out.print("Enter an integer :: ");
+        intOne = keyboard.nextInt();
+  
+        System.out.print("Enter an integer :: ");
+        intTwo = keyboard.nextInt();
+
+        System.out.println("integer one = " + intOne);
+        System.out.println("integer two = " + intTwo);
   
         System.out.print("Enter a double :: ");
         doOne = keyboard.nextDouble();
