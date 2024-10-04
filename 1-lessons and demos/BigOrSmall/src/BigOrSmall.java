@@ -1,3 +1,8 @@
+//BigOrSmall
+//Emmanuel Mok
+//Oct. 3, 2024
+//enter integer and you get results
+
 import java.util.Scanner;
 public class BigOrSmall {
     public void biggiesmalls() {
