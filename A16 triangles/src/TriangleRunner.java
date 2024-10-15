@@ -1,3 +1,9 @@
+//Triangle Calculator
+//Emmanuel Mok
+//Oct. 15, 2024
+//run code and enter integer numbers. The area is rounded to two decimal places.
+
+
 import java.util.Scanner; 
 
 public class TriangleRunner 
